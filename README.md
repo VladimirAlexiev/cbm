@@ -1,14 +1,14 @@
 #Crystal Bridges Museum#
 
-| Semantic Models                 | REVIEW_BY_ISI | REVIEW_BY_AAC |
-|---------------------------------|---------------|---------------|
+| Semantic Models                 | REVIEW_BY_ISI | REVIEW_BY_AAC | Bugs
+|---------------------------------|---------------|---------------|-----
 | CBMAA_Constituents                 |     DONE      |     TO_DO     |
 | CBMAA_Exhibitions                 |     DONE      |     TO_DO     |
 | CBMAA_Objects                 |     DONE      |     TO_DO     |
 | CBMAA_Titles                  |     DONE      |     TO_DO     |
 | PG_Constituents                 |     DONE      |     TO_DO     |
 | PG_Exhibitions                 |     DONE      |     TO_DO     |
-| PG_Objects                 |     DONE      |     TO_DO     |
+| PG_Objects                 |     DONE      |     TO_DO    | #48, #53
 | PG_Titles                  |     DONE      |     TO_DO     |
 
 ##Queries Verified for the following fields:
